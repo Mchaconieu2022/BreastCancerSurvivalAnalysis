@@ -1,8 +1,4 @@
 # BreastCancerSurvivalAnalysis
-[Readme.txt](https://github.com/user-attachments/files/23944514/Readme.txt)
-Breast Cancer Survival Analysis
-
-Jaime, Maria, Bernarda, Joāo
 Machine Learning for Healthcare
 
 Project: Survival analysis
